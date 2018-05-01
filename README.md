@@ -11,9 +11,11 @@ url: https://twitter.com/badrulfarhad
  https://badrulfarhad.blogspot.com/
 # skills:
  - Wp install
+ - development
  - Speed up & security
  - Maintenance support
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+#Blogfeed
+http://feeds.feedburner.com/BadrulFarhad
 blogfeed: https://badrulfarhad.blogspot.com//feeds/posts/default
 #Work experience
 roles:
@@ -21,15 +23,14 @@ roles:
    start: 2015
    end: Ongoing
    employer: Orchid
-   description: Orchid is a web design agency that was established in 2015. I am a customer service rep working closely with the customers, working on wordpress support. I am involved in all aspects of the technical assistance including the website and back-end services.
+Orchid is a web design agency that was established in 2015. I am a customer service rep working closely with the customers, working on wordpress support. I am involved in all aspects of the technical assistance including the website and back-end services.Hire me to fix  your WordPress issues  that are not limited to
+Database connection error White screen of death, Scheduled maintenance error RSS feed Fatal, the stylesheet is missing error Data import error,404/ page not found or do not exists Blank menu error, Page is not working and so on.
 #Education 
-education:
- - level: Postgraduate in Marketing management
-   
+ -: Postgraduate in Marketing management
    subject: Marketing management
    school: Bangladesh Institute of management
 
-#List of interesting Github repo/projects to include - optional
+#Github repo
 github:
- - badrulfarhad/wp-nonces 
+- badrulfarhad/wp-nonces 
  
