@@ -32,5 +32,5 @@ Database connection error White screen of death, Scheduled maintenance error RSS
 
 #Github repo
 github:
-- badrulfarhad/wp-nonces 
+- https://github.com/badrulfarhad/wp-nonces 
  
