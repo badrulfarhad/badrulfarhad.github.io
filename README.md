@@ -1,5 +1,5 @@
 # Site settings
-title: Rob Hinds
+title: Badrul Farhad
 twitter_username: badrul_farhad
 name: Badrul Farhad
 #User specific content
