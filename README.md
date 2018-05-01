@@ -9,13 +9,12 @@ primarylinks:
    url: https://badrulfarhad.blogspot.com/
  - title: GitHub
    url: https://github.com/badrulfarhad
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+ - title: wordpress customer support
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
+ - Wp install
+ - Speed up & security
+ - Maintenance support
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://badrulfarhad.blogspot.com//feeds/posts/default
 #Work experience is required
