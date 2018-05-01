@@ -1,4 +1,4 @@
-# Site settings
+# wordpress customer support
 title: Badrul Farhad
 twitter_username: badrul_farhad
 name: Badrul Farhad
