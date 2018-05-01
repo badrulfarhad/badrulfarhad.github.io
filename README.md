@@ -10,6 +10,7 @@ primarylinks:
  - title: GitHub
    url: https://github.com/badrulfarhad
  - title: wordpress customer support
+ https://badrulfarhad.blogspot.com/
 #Any buzzword skills you want to include
 skills:
  - Wp install
