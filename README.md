@@ -2,6 +2,7 @@
 title: Badrul Farhad
 twitter_username: badrul_farhad
 name: Badrul Farhad
+url: https://twitter.com/badrulfarhad
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
